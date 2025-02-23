@@ -1,6 +1,6 @@
 # Hello, I'm Jerryeca 👋
 
-![Profile views](https://gpvc.arturio.dev/jerryeca)
+![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryeca)
 
 ## 🌱 I’m currently learning ...
 - **Rust**, **Python**, **C++**
