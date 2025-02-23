@@ -1,20 +1,24 @@
-# Hello, I'm Jerry-ecA 👋
+# Hello, I'm Jerryeca 👋
 
 ![Profile views](https://gpvc.arturio.dev/jerryeca)
 
 ## 🌱 I’m currently learning ...
-- **Rust**, **Python**, **JavaScript**, **C++**
+- **Rust**, **Python**, **C++**
 
 ## 🛠️ Languages and Tools
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
 ## 📊 GitHub Stats
-![Jerry-ecA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&count_private=true&hide_title=true&hide=prs)
+![Jerryeca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&count_private=true&hide_title=true&hide=prs)
+
+## 📊 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca&layout=compact)
 
 ## 💬 Ask me about ...
 - Anything about programming, tech, and more!
 
 ## 📫 How to reach me
-- Email: jerryeca@outlook.com
+- Email: your-email@example.com
+- Twitter: [@jerryeca](https://twitter.com/jerryeca)
