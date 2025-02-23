@@ -1,26 +1,20 @@
-# Hi there, I'm Jerry-ecA 👋
+# Hello, I'm Jerry-ecA 👋
 
-I am a passionate software developer with a keen interest in open-source technologies and a love for learning new things. Here's a little bit about me:
+![Profile views](https://gpvc.arturio.dev/jerryeca)
 
-## 🚀 About Me
-- 💻 I specialize in backend development with experience in frontend technologies.
-- 🌱 I’m currently learning more about cloud computing and DevOps practices.
-- 👯 I’m looking to collaborate on open-source projects and innovative tech solutions.
-- 💬 Ask me about software development, best coding practices, and open source contributions.
-- 📫 How to reach me: [jerryeca@outlook.com](mailto:jerryeca@outlook.com)
-- ⚡ Fun fact: I love hiking and exploring nature trails in my free time.
+## 🌱 I’m currently learning ...
+- **Rust**, **Python**, **JavaScript**, **C++**
 
-## 🛠️ Technologies & Tools
-- Languages: Python, C/C++
-- Frameworks: Django, Flask, React, Node.js
-- Databases: PostgreSQL, MySQL, MongoDB
-- Tools: Docker, Git, Vim
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca&layout=compact&theme=light)]
+## 🛠️ Languages and Tools
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
+## 📊 GitHub Stats
+![Jerry-ecA's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/jerryeca)
-- [Twitter](https://twitter.com/jerryeca)
+## 💬 Ask me about ...
+- Anything about programming, tech, and more!
 
-Thank you for visiting my profile! Have a great day! 😄
+## 📫 How to reach me
+- Email: jerryeca@outlook.com
