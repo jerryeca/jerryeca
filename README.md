@@ -33,12 +33,12 @@
 ### 📊 数据统计
 <!-- GitHub统计卡片 -->
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&theme=light&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca&layout=compact&theme=light&hide_border=true" />
 </div>
 
 <!-- 活动日历 -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryeca&theme=github&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryeca&theme=light&hide_border=true)
 
 ---
 
