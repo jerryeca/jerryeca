@@ -1,4 +1,4 @@
-# Hi there, I'm Jerry Eca 👋
+# Hi there, I'm Jerry-ecA 👋
 
 I am a passionate software developer with a keen interest in open-source technologies and a love for learning new things. Here's a little bit about me:
 
@@ -11,10 +11,10 @@ I am a passionate software developer with a keen interest in open-source technol
 - ⚡ Fun fact: I love hiking and exploring nature trails in my free time.
 
 ## 🛠️ Technologies & Tools
-- Languages: Python, JavaScript, Java, C++
+- Languages: Python, C/C++
 - Frameworks: Django, Flask, React, Node.js
 - Databases: PostgreSQL, MySQL, MongoDB
-- Tools: Docker, Kubernetes, Git, CI/CD
+- Tools: Docker, Git, Vim
 
 ## 📈 GitHub Stats
 ![Jerry Eca's GitHub stats](https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&theme=radical)
