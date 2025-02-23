@@ -15,6 +15,8 @@ I am a passionate software developer with a keen interest in open-source technol
 - Frameworks: Django, Flask, React, Node.js
 - Databases: PostgreSQL, MySQL, MongoDB
 - Tools: Docker, Git, Vim
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j erryeca&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📫 Connect with Me
