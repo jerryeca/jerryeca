@@ -1,4 +1,4 @@
-# Hello, I'm Jerryeca 👋
+# Hello, I'm Jerry-ecA 👋
 
 ![Profile views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjerryeca)
 
@@ -20,5 +20,6 @@
 - Anything about programming, tech, and more!
 
 ## 📫 How to reach me
-- Email: your-email@example.com
-- Twitter: [@jerryeca](https://twitter.com/jerryeca)
+- Email: jerryeca@outlook.com
+- Twitter: [@jerry_eca](https://twitter.com/jerry_eca)
+- Telegram: [@Jerry-ecA](https://t.me/Jerry-ecA)
