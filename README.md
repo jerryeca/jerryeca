@@ -25,7 +25,7 @@
 ### 🛠️ 技术栈
 <!-- 动态技能图标 -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,py,C++,vim" />
+  <img src="https://skillicons.dev/icons?i=git,github,py,cpp,vim" />
 </p>
 
 ---
