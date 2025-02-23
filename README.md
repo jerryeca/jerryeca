@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ 技术栈
+### 🛠️ Languages and Tools
 <!-- 动态技能图标 -->
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,py,cpp,vim" />
@@ -30,44 +30,17 @@
 
 ---
 
-### 📊 数据统计
+### 📊 Data Analytics
 <!-- GitHub统计卡片 -->
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jerryeca&show_icons=true&theme=light&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca&layout=compact&theme=light&hide_border=true" />
 </div>
 
-<!-- 活动日历 -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryeca&theme=github&hide_border=true)
 
 ---
 
-### 🎯 精选项目
-<!-- 置顶项目展示 -->
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔍 项目1</h3>
-      <a href="[项目链接]">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryeca&repo=项目名&theme=light" />
-      </a>
-      <p>📌 项目简短描述</p>
-      <img src="https://img.shields.io/github/stars/用户名/项目名?style=social" />
-    </td>
-    <td width="50%">
-      <h3>🚀 项目2</h3>
-      <a href="[项目链接]">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryeca&repo=项目名&theme=light" />
-      </a>
-      <p>📌 项目简短描述</p>
-      <img src="https://img.shields.io/github/stars/用户名/项目名?style=social" />
-    </td>
-  </tr>
-</table>
-
----
-
-### 🤝 联系我
+### 🤝 Reach me
 <p align="left">
   <a href="[领英链接]">
     <img src="https://skillicons.dev/icons?i=linkedin" />
