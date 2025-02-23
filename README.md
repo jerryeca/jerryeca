@@ -16,7 +16,7 @@ I am a passionate software developer with a keen interest in open-source technol
 - Databases: PostgreSQL, MySQL, MongoDB
 - Tools: Docker, Git, Vim
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerryeca&layout=compact&theme=light)]
 
 
 ## 📫 Connect with Me
