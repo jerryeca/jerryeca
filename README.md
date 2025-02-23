@@ -38,7 +38,7 @@
 </div>
 
 <!-- 活动日历 -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryeca&theme=light&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jerryeca&theme=github&hide_border=true)
 
 ---
 
@@ -49,7 +49,7 @@
     <td width="50%">
       <h3>🔍 项目1</h3>
       <a href="[项目链接]">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryeca&repo=项目名&theme=light" />
       </a>
       <p>📌 项目简短描述</p>
       <img src="https://img.shields.io/github/stars/用户名/项目名?style=social" />
@@ -57,7 +57,7 @@
     <td width="50%">
       <h3>🚀 项目2</h3>
       <a href="[项目链接]">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=你的用户名&repo=项目名&theme=radical" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jerryeca&repo=项目名&theme=light" />
       </a>
       <p>📌 项目简短描述</p>
       <img src="https://img.shields.io/github/stars/用户名/项目名?style=social" />
