@@ -15,7 +15,7 @@
   <a href="https://twitter.com/[jerry_eca]">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
-  <a href="mailto:[jerryeca@outlook.com]">
+  <a href="mailto:[jerryeca3@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
