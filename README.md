@@ -25,7 +25,7 @@
 ### 🛠️ Languages and Tools
 <!-- 动态技能图标 -->
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,py,cpp,vim" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,vim" />
 </p>
 
 ---
