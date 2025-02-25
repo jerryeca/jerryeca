@@ -9,7 +9,7 @@
 
 <!-- 社交链接徽章 -->
 <p align="center">
-  <a href="jerryeca.github.io">
+  <a href="https://jerryeca.github.io">
     <img src="https://img.shields.io/badge/Blog-FF5722?style=flat&logo=blogger&logoColor=white" />
   </a>
   <a href="https://twitter.com/[jerry_eca]">
